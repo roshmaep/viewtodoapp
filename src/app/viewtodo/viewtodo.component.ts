@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./viewtodo.component.css']
 })
 export class ViewtodoComponent {
-  data:any=[
+  data:any=
     [
       {
         "userId": 1,
@@ -1210,6 +1210,6 @@ export class ViewtodoComponent {
       }
     ]
 
-  ]
+  
 
-}
+  }
